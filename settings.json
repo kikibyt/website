@@ -1,0 +1,8 @@
+{
+    "githubPullRequests.notifications": "pullRequests",
+    "blame-pr.githubToken": "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",
+    "githubPullRequests.commentExpandState": "collapseAll",
+    "openInGitHub.requireSelectionForLines": true,
+    "gitlens.currentLine.pullRequests.enabled": true,
+    "openInGitHub.useCommitSHAInURL": true
+}
